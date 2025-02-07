@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 20 Dec 2024 02:05:43 at https://themesflat.co/html/modave/home-fashion-chicHaven.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://themesflat.co/html/modave/home-fashion-chicHaven.html -O1 "D:\orukkamcostumeshtml" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:05:45	Error: 	"Internal Server Error" (500) after 2 retries at link https://themesflat.co/robots.txt (from primary/primary)
+02:11:28	Warning: 	Retry after error 500 (Internal Server Error) at link https://themesflat.co/html/modave/home-fashion-men.html (from https://themesflat.co/html/modave/home-fashion-chicHaven.html)
+02:11:28	Warning: 	Retry after error 500 (Internal Server Error) at link https://themesflat.co/html/modave/home-fashion-kid.html (from https://themesflat.co/html/modave/home-fashion-chicHaven.html)
+02:16:42	Warning: 	Retry after error 500 () at link https://themesflat.co/html/modave/home-fashion-men.html (from https://themesflat.co/html/modave/home-fashion-chicHaven.html)
+02:16:42	Warning: 	Retry after error 500 (Internal Server Error) at link https://themesflat.co/html/modave/home-fashion-kid.html (from https://themesflat.co/html/modave/home-fashion-chicHaven.html)
+02:16:43	Error: 	"" (500) after 2 retries at link https://themesflat.co/html/modave/home-fashion-men.html (from https://themesflat.co/html/modave/home-fashion-chicHaven.html)
+02:16:43	Error: 	"Internal Server Error" (500) after 2 retries at link https://themesflat.co/html/modave/home-fashion-kid.html (from https://themesflat.co/html/modave/home-fashion-chicHaven.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 0 seconds : 942 links scanned, 935 files written (82438327 bytes overall) [45188086 bytes received at 68466 bytes/sec], 42396237 bytes transferred using HTTP compression in 156 files, ratio 11%, 1.9 requests per connection
+(3 errors, 4 warnings, 0 messages)
